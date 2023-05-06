@@ -1,0 +1,60 @@
+{
+  "Restaurants": [
+    {
+      "RestaurantName": "Kirin Asian Cafe",
+      "RestaurantDescription": "Kirin Asian Cafe was established by Alan and Cindy Yim on February 3, 2004. They pride themselves on serving authentic Chinese food. The friendly atmosphere will make your visits to our restaurant memorable occasions. Kirin Asian Cafe offers specialty dishes such as Peking Duck, Chicken in Lettuce Rolls, and Golden Coins Eggplant with Spicy Salt. The diverse entrees can be complemented by freshly made Grilled Chicken Satay, Pan Fried Dumplings, and other appealing appetizers. Of course, your personal taste are always most willingly accommodated. Experience our quality food and reasonable prices at Kirin Asian Cafe. Thank you for visiting our web site, and we will look forward to meeting with you soon.",
+      "RestaurantCity": "Chantilly",
+      "RestaurantAddress": "43053 Pemberton Square #100, VA 20152",
+      "RestaurantType": "Casual/Family",
+      "RestaurantCapacity": "50",
+      "RestaurantFood": "Chinese",
+      "RestaurantImageName": "https://raw.githubusercontent.com/jpha21/IT315-Project/main/kirin.png",
+      "RestaurantWebsiteAddress": "https://www.kirinasiancafe.com"
+    },
+    {
+      "RestaurantName": "South Riding Inn",
+      "RestaurantDescription": "We started with a desire to help serve our neighbors by offering a restaurant with a friendly atmosphere where everybody knows everybody, excellent service, great traditional American cuisine, live entertainment, and a local watering hole for our friends and neighbors. Over the last 17 years, our menu has changed a bit, our offerings have expanded, but, we have remained true to our roots. Locally owned, we live in the neighborhood and enjoy our role of supporting the community and local schools in the South Riding area. We take a lot of pride in the community we operate, and plan to always be a locally owned, locally made, community focused neighborhood bar and grill. We look forward to serving you and your family at the Inn soon!",
+      "RestaurantCity": "Chantilly",
+      "RestaurantAddress": "43090 Peacock Market Plz, VA 20152",
+      "RestaurantType": "Casual/Family",
+      "RestaurantCapacity": "100",
+      "RestaurantFood": "American",
+      "RestaurantImageName": "https://raw.githubusercontent.com/jpha21/IT315-Project/main/southridinginn.png",
+      "RestaurantWebsiteAddress": "https://www.southridinginn.com"
+    },
+    {
+      "RestaurantName": "Foster's Grille",
+      "RestaurantDescription": "In 1999, a friendly neighborhood gathering spot opened its doors. It was fast, fresh, casual … and fun. We called it Foster’s Grille. The concept was a hit from the first flame. And, not too much has changed over the years. Today, Foster’s Grille is still the place where guys and girls gather for the big game, co-workers meet for happy hour, families come together, and the Fosters’ idea for simple, fresh fare keeps winning over new fans every day.",
+      "RestaurantCity": "Chantilly",
+      "RestaurantAddress": "24995 Riding Plz #100, VA 20152",
+      "RestaurantType": "Fast Food",
+      "RestaurantCapacity": "50",
+      "RestaurantFood": "American",
+      "RestaurantImageName": "https://raw.githubusercontent.com/jpha21/IT315-Project/main/fosters.png",
+      "RestaurantWebsiteAddress": "https://www.fostersgrille.com"
+    },
+    {
+      "RestaurantName": "The Capital Grille",
+      "RestaurantDescription": "From the moment you step into The Capital Grille, the experience is one of comfortable elegance. African mahogany paneling and Art Deco chandeliers provide a warm, stately setting for our nationally renowned dry-aged steaks, fresh seafood, and acclaimed world-class wines. With service as gracious as it is attentive, we look forward to impressing you. It is our sole desire that everything, and we mean everything, that arrives at your table at The Capital Grille delights you. To that end, we use only the finest, freshest ingredients, masterfully prepared in recipes designed to engage all of your senses.",
+      "RestaurantCity": "Fairfax",
+      "RestaurantAddress": "12169 Fair Lakes Promenade Dr, VA 22033",
+      "RestaurantType": "Fine Dining",
+      "RestaurantCapacity": "250",
+      "RestaurantFood": "Steakhouse",
+      "RestaurantImageName": "https://raw.githubusercontent.com/jpha21/IT315-Project/main/capitalgrille.png",
+      "RestaurantWebsiteAddress": "https://www.thecapitalgrille.com"
+    },
+    {
+      "RestaurantName": "Social House: Kitchen & Tap",
+      "RestaurantDescription": "Social House Kitchen & Tap is a casual American Kitchen and Tap house in South Riding, Virginia; where cravings are satisfied through traditional delicious comfort foods; the live music is enchanting and the experience is exceptional. Social House Kitchen & Tap is where friends come together and laughter and life abound. Our large patio with crackling fire-pits offers the perfect backdrop for a beautiful lunch or an evening out. Our charming interior finishes include gorgeous locally-sourced wood handcrafted to impress and offer a warm welcoming place to unwind with friends, neighbors, co-workers and family. Listen to amazing local live musicians every Thursday through Friday on the Social Stage.",
+      "RestaurantCity": "Chantilly",
+      "RestaurantAddress": "25370 Eastern Marketplace, VA 20152",
+      "RestaurantType": "Casual/Family",
+      "RestaurantCapacity": "150",
+      "RestaurantFood": "American",
+      "RestaurantImageName": "https://raw.githubusercontent.com/jpha21/IT315-Project/main/socialhouse.png",
+      "RestaurantWebsiteAddress": "https://www.socialhousesouthriding.com"
+    }
+  ],
+  "Status": "OK"
+}
